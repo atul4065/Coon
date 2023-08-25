@@ -19,7 +19,6 @@ To install Coon, run command on Terminal
 
 3. **composer require atul4065/coon**
 
-   &nbsp;
 4. To get dashboard search for "/admin/dashboard" on browser
 
 5. Add/bridge the Service provider in **config/auth.php** file  "AdminPanelServiceProvider"
