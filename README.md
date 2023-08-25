@@ -20,7 +20,9 @@ To install Coon, run command on Terminal
 
    &nbsp;
 4. To get dashboard search for "/admin/dashboard" on browser
+
 5. Add/bridge the Service provider in **config/auth.php** file  "AdminPanelServiceProvider"
+
 6. To get Scaffoldings run command:
    
    &nbsp;
