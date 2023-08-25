@@ -1,0 +1,19 @@
+{
+    "name": "atul4065/coon",
+    "description": "Admin panel For Laravel 10",
+    "autoload": {
+        "psr-4": {
+            "Atul4065\\Coon\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Atul Kumar",
+            "email": "atulksung094@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    },
+    "minimum-stability": "stable"
+}
