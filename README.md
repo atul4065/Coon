@@ -14,7 +14,7 @@ Coon provides required layouts which is required in a Admin Panel like template 
 2. **Laravel** 9 or Larvael 9+
 
 
-##**Installations process:**
+## Installations process:
 
 To install Coon, run command on Terminal
 
