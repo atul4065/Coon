@@ -9,7 +9,7 @@ Coon is a Beginner to Expert level admin panel which means you can adjust it as 
 
 Coon provides required layouts which is required in a Admin Panel like template layouts and authentications are mandatory.
 
-## **Requirements:**
+##  Requirements:
 1. **PHP**: 8+ Versions
 2. **Laravel** 9 or Larvael 9+
 
