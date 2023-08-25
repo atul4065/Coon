@@ -14,16 +14,17 @@ Coon provides required layouts which is required in a Admin Panel like template 
 2. **Laravel** 9 or Larvael 9+
 
 
-**Installations process:**
+##**Installations process:**
+
 To install Coon, run command on Terminal
 
-3. **composer require atul4065/coon**
+1. **composer require atul4065/coon**
 
-4. To get dashboard search for "/admin/dashboard" on browser
+2. To get dashboard search for "/admin/dashboard" on browser
 
-5. Add/bridge the Service provider in **config/auth.php** file  "AdminPanelServiceProvider"
+3. Add/bridge the Service provider in **config/auth.php** file  "AdminPanelServiceProvider"
 
-6. To get Scaffoldings run command:
+4. To get Scaffoldings run command:
    
    &nbsp;
    syntax:
