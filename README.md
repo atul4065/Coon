@@ -16,6 +16,7 @@ Coon provides required layouts which is required in a Admin Panel like template 
 
 **Installations process:**
 To install Coon, run command on Terminal
+
 3. **composer require atul4065/coon**
 
    &nbsp;
